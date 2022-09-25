@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.ScatterGather.API", "Playground.ScatterGather.API\Playground.ScatterGather.API.csproj", "{9D3419E8-56EC-4D05-A336-DE6969319F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.ScatterGather.Contracts", "Playground.ScatterGather.Contracts\Playground.ScatterGather.Contracts.csproj", "{05A1DC45-1355-4004-938E-C705FB2CC9C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.ScatterGather.PensionFunds", "Playground.ScatterGather.PensionFunds\Playground.ScatterGather.PensionFunds.csproj", "{0F08E929-981D-4D36-8256-00AEF97A6197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.ScatterGather.Funds", "Playground.ScatterGather.Funds\Playground.ScatterGather.Funds.csproj", "{AF44BA8B-5584-4747-9DD7-8672C1FD538B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.ScatterGather.FixedIncome", "Playground.ScatterGather.FixedIncome\Playground.ScatterGather.FixedIncome.csproj", "{E8C2E464-CF0B-400B-B742-E5EFB87764F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.ScatterGather.Conciliation", "Playground.ScatterGather.Conciliation\Playground.ScatterGather.Conciliation.csproj", "{F339C326-5A56-4DCD-B2B0-91B9D7EF55BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D3419E8-56EC-4D05-A336-DE6969319F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3419E8-56EC-4D05-A336-DE6969319F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3419E8-56EC-4D05-A336-DE6969319F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3419E8-56EC-4D05-A336-DE6969319F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A1DC45-1355-4004-938E-C705FB2CC9C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A1DC45-1355-4004-938E-C705FB2CC9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A1DC45-1355-4004-938E-C705FB2CC9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A1DC45-1355-4004-938E-C705FB2CC9C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F08E929-981D-4D36-8256-00AEF97A6197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F08E929-981D-4D36-8256-00AEF97A6197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F08E929-981D-4D36-8256-00AEF97A6197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F08E929-981D-4D36-8256-00AEF97A6197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF44BA8B-5584-4747-9DD7-8672C1FD538B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF44BA8B-5584-4747-9DD7-8672C1FD538B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF44BA8B-5584-4747-9DD7-8672C1FD538B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF44BA8B-5584-4747-9DD7-8672C1FD538B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C2E464-CF0B-400B-B742-E5EFB87764F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C2E464-CF0B-400B-B742-E5EFB87764F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C2E464-CF0B-400B-B742-E5EFB87764F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C2E464-CF0B-400B-B742-E5EFB87764F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F339C326-5A56-4DCD-B2B0-91B9D7EF55BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F339C326-5A56-4DCD-B2B0-91B9D7EF55BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F339C326-5A56-4DCD-B2B0-91B9D7EF55BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F339C326-5A56-4DCD-B2B0-91B9D7EF55BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228EE661-A519-4983-AA3B-749814D4BC7C}
+	EndGlobalSection
+EndGlobal

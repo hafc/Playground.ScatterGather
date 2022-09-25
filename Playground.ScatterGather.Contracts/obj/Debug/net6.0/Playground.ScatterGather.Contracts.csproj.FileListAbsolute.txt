@@ -1,0 +1,12 @@
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\bin\Debug\net6.0\Playground.ScatterGather.Contracts.deps.json
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\bin\Debug\net6.0\Playground.ScatterGather.Contracts.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\bin\Debug\net6.0\Playground.ScatterGather.Contracts.pdb
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\obj\Debug\net6.0\Playground.ScatterGather.Contracts.csproj.AssemblyReference.cache
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\obj\Debug\net6.0\Playground.ScatterGather.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\obj\Debug\net6.0\Playground.ScatterGather.Contracts.AssemblyInfoInputs.cache
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\obj\Debug\net6.0\Playground.ScatterGather.Contracts.AssemblyInfo.cs
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\obj\Debug\net6.0\Playground.ScatterGather.Contracts.csproj.CoreCompileInputs.cache
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\obj\Debug\net6.0\Playground.ScatterGather.Contracts.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\obj\Debug\net6.0\refint\Playground.ScatterGather.Contracts.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\obj\Debug\net6.0\Playground.ScatterGather.Contracts.pdb
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Contracts\obj\Debug\net6.0\ref\Playground.ScatterGather.Contracts.dll

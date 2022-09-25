@@ -1,0 +1,15 @@
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\bin\Debug\net6.0\Playground.ScatterGather.Funds.deps.json
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\bin\Debug\net6.0\Playground.ScatterGather.Funds.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\bin\Debug\net6.0\Playground.ScatterGather.Funds.pdb
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\obj\Debug\net6.0\Playground.ScatterGather.Funds.csproj.AssemblyReference.cache
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\obj\Debug\net6.0\Playground.ScatterGather.Funds.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\obj\Debug\net6.0\Playground.ScatterGather.Funds.AssemblyInfoInputs.cache
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\obj\Debug\net6.0\Playground.ScatterGather.Funds.AssemblyInfo.cs
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\obj\Debug\net6.0\Playground.ScatterGather.Funds.csproj.CoreCompileInputs.cache
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\obj\Debug\net6.0\Playground.ScatterGather.Funds.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\obj\Debug\net6.0\refint\Playground.ScatterGather.Funds.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\obj\Debug\net6.0\Playground.ScatterGather.Funds.pdb
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\obj\Debug\net6.0\ref\Playground.ScatterGather.Funds.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\bin\Debug\net6.0\Playground.ScatterGather.Contracts.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\bin\Debug\net6.0\Playground.ScatterGather.Contracts.pdb
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.Funds\obj\Debug\net6.0\Playground.ScatterGather.Funds.csproj.CopyComplete

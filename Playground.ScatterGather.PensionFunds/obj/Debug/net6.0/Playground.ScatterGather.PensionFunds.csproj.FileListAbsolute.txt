@@ -1,0 +1,15 @@
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\obj\Debug\net6.0\Playground.ScatterGather.PensionFunds.csproj.AssemblyReference.cache
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\obj\Debug\net6.0\Playground.ScatterGather.PensionFunds.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\obj\Debug\net6.0\Playground.ScatterGather.PensionFunds.AssemblyInfoInputs.cache
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\obj\Debug\net6.0\Playground.ScatterGather.PensionFunds.AssemblyInfo.cs
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\obj\Debug\net6.0\Playground.ScatterGather.PensionFunds.csproj.CoreCompileInputs.cache
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\bin\Debug\net6.0\Playground.ScatterGather.PensionFunds.deps.json
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\bin\Debug\net6.0\Playground.ScatterGather.PensionFunds.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\bin\Debug\net6.0\Playground.ScatterGather.PensionFunds.pdb
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\bin\Debug\net6.0\Playground.ScatterGather.Contracts.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\bin\Debug\net6.0\Playground.ScatterGather.Contracts.pdb
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\obj\Debug\net6.0\Playground.ScatterGather.PensionFunds.csproj.CopyComplete
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\obj\Debug\net6.0\Playground.ScatterGather.PensionFunds.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\obj\Debug\net6.0\refint\Playground.ScatterGather.PensionFunds.dll
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\obj\Debug\net6.0\Playground.ScatterGather.PensionFunds.pdb
+D:\repos\dotnet\Playground.ScatterGather\Playground.ScatterGather.PensionFunds\obj\Debug\net6.0\ref\Playground.ScatterGather.PensionFunds.dll
